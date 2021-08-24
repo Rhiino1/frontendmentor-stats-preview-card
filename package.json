@@ -1,0 +1,30 @@
+{
+  "name": "mini-project-02-stats-preview-card",
+  "version": "1.0.0",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhiino1/frontendmentor-stats-preview-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhiino1/frontendmentor-stats-preview-card/issues"
+  },
+  "homepage": "https://github.com/Rhiino1/frontendmentor-stats-preview-card#readme",
+  "dependencies": {
+    "autoprefixer": "^10.3.2",
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.8",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^5.0.0",
+    "postcss": "^8.3.6",
+    "sass": "^1.38.1"
+  }
+}
