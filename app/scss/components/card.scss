@@ -143,6 +143,7 @@
     &__description {
       margin-top: rem(10);
       text-transform: uppercase;
+      letter-spacing: rem(1);
       color: var(--slightly-transparent-white-stat-headings);
 
       @include breakpoint(large) {
