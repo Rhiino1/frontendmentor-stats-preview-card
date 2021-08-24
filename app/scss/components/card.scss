@@ -22,11 +22,11 @@
   &__header {
     width: 100%;
     height: rem(240);
-    background: no-repeat top/100% url('/images/image-header-mobile.jpg');
+    background: no-repeat top/100% url('./images/image-header-mobile.jpg');
 
     @include breakpoint(large) {
       height: auto;
-      background: no-repeat top/100% url('/images/image-header-desktop.jpg');
+      background: no-repeat top/100% url('./images/image-header-desktop.jpg');
     }
 
     &::after {
