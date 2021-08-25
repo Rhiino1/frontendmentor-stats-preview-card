@@ -16,6 +16,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -72,7 +73,7 @@ The only problem was i couldn't get the exact color, I really try it with brutfo
 
 ### Continued development
 
-As I mentioned above, I want to research about colors and hsl, since I am a programmer I used hex color so I want to change that.
+As I mentioned above, I want to research about colors and hsl, since I am a programmer I used hex color so I want to change that. (Edit) The problem had an easy solution, it was working with [mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode) with a value of multiply, simply as that.
 
 ### Useful resources
 
@@ -84,3 +85,7 @@ As I mentioned above, I want to research about colors and hsl, since I am a prog
 - Github - [Cesar SC](https://github.com/Rhiino1)
 - Frontend Mentor - [@Rhiino1](https://www.frontendmentor.io/profile/Rhiino1)
 - Twitter - [@Rhiino_1](https://www.twitter.com/Rhiino_1)
+
+## Acknowledgments
+
+- [Matt Studdert](https://www.frontendmentor.io/profile/mattstuddert) - He is the creator of frontend mentor and help me with the filter over the image, he is awesome.

@@ -35,12 +35,8 @@
       border-radius: rem(10) rem(10) 0 0;
       width: rem(327);
       height: rem(240);
-      // background: hsl(276deg, 35%, 39%, 100%);
-      // background: hsl(277deg 96% 37% / 61%);
-      // background: hsl(300deg 100% 53% / 35%);
-      // background: hsl(277deg 64% 61% / 30%);
-      background: hsl(277deg 96% 43% / 40%);;
-      // background: hsl(281deg 100% 47% / 30%);
+      background: var(--soft-violet-accent);
+      mix-blend-mode: multiply;
 
       @include breakpoint(large) {
         border-radius: 0 rem(10) rem(10) 0;
